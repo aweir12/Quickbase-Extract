@@ -1,3 +1,6 @@
+# ARW - Specific Files to Ignore
+parameters.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
