@@ -1,1 +1,8 @@
-test_variable = 'Testing .gitignore'
+# Base URL to Quickbase Site
+quickbase_base_url = ''
+
+# Quickbase User Token
+quickbase_user_token = ''
+
+# List of Dictionary Items to Create Query URL's for Quickbase
+quickbase_queries = [{}]
